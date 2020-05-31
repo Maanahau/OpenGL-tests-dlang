@@ -1,0 +1,17 @@
+{
+	"authors": [
+		"Waldinflesh"
+	],
+	"copyright": "Copyright © 2020, Waldinflesh",
+	"dependencies": {
+		"derelict-assimp3": "~>1.3.0",
+		"derelict-gl3": "~>1.0.24",
+		"derelict-glfw3": "~>3.1.3",
+		"dlib": "~>0.18.0",
+		"imaged": "~>1.0.2",
+		"stb": "~>1.7.6"
+	},
+	"description": "game engine",
+	"license": "no",
+	"name": "engine-d"
+}
